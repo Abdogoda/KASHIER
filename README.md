@@ -26,9 +26,20 @@ The core functionality of Cashier revolves around providing a smooth and efficie
 ## Installation
 Follow these steps to set up the Kashier application locally:
 1. Clone the repository
-2. Install dependencies (PHP, Composer, Python, Tkinter)
+2. Install dependencies (*PHP, Composer, Python, Tkinter*)
 3. Set up environment variables
-4. Run migrations (`php artisan migrate)
+4. Run migrations (`php artisan migrate`)
+5. Copy The Kasier.py shortcut to the desktop.
+---
+
+## Usage
+To use the system locally, it's actually super easy. just by clicking the shortcut icon in the desktop, it will popup a window with start button to start the server and open the webpage automatically.
+Here is the stating window that will open the app:
+![START](https://github.com/user-attachments/assets/2a0ea340-ee90-40dd-b02c-18a29560285c)
+
+And Here is how to end the server:
+![END](https://github.com/user-attachments/assets/4564bdf7-1f0e-4350-8126-3c3baafa86d2)
+
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
