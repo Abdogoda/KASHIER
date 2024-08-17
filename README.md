@@ -4,12 +4,14 @@ The core functionality of Cashier revolves around providing a smooth and efficie
 
 ## Features
 <p align="center">
-<span align="center" style="background-color:red">Employee Authentication</span>
+<span align="center">Employee Authentication</span>
+<span align="center">Customers/Suppliers Management</span>
+<span align="center">Products Management</span>
+<span align="center">Invoice Management</span>
+<span align="center">Settings Update</span>
+<span align="center">Notification System</span>
+<span align="center">Financial Reporting</span>
 </p>
-Employee Authentication: Secure login system specifically for employees using a custom guard.
-Invoice Management: Create, update, and track invoices with detailed financial records.
-Role-Based Access: Different levels of access based on employee roles.
-Financial Reporting: Generate reports for financial analysis and decision-making.
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
