@@ -1,4 +1,7 @@
-<p align="center"><h1 align="center">KASHIER</h1></p>
+# KASHIER
+Cashier is a comprehensive web-based application designed to manage employee authentication and billing within an organizational environment. 
+The core functionality of Cashier revolves around providing a smooth and efficient workflow for employees and financial processes.
+
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
