@@ -1,6 +1,7 @@
 # KASHIER <img width="30" height="30" src="https://github.com/user-attachments/assets/13b6ce97-c866-42a2-8bd5-923ac4f4c083" alt="kashier-logo">
 Cashier is a comprehensive web-based application designed to manage employee authentication and billing within an organizational environment. 
 The core functionality of Cashier revolves around providing a smooth and efficient workflow for employees and financial processes.
+---
 
 ## Contents
 - [Features](#features)
@@ -9,11 +10,14 @@ The core functionality of Cashier revolves around providing a smooth and efficie
 - [Development](#development)
 - [License](#license)
 - [Contact](#contact)
+---
 
 ## Features
 * Employee Authentication
+* Employee Role and Permissions
 * Customers/Suppliers Management
 * Products Management
+* Warehouse Notification
 * Invoice Management
 * Settings Update
 * Notification System
@@ -36,7 +40,6 @@ Follow these steps to set up the Kashier application locally:
 To use the system locally, it's actually super easy. just by clicking the shortcut icon in the desktop, it will popup a window with start button to start the server and open the webpage automatically.
 Here is the stating window that will open the app:<br>
 ![START](https://github.com/user-attachments/assets/814bfd58-bd4b-481a-8d4e-3a9e90b63ffd)
-
 
 And Here is how to end the server:<br>
 ![END](https://github.com/user-attachments/assets/4564bdf7-1f0e-4350-8126-3c3baafa86d2)
