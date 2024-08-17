@@ -28,7 +28,7 @@ Follow these steps to set up the Kashier application locally:
 1. Clone the repository
 2. Install dependencies (PHP, Composer, Python, Tkinter)
 3. Set up environment variables
-4. Run migrations (```php artisan migrate)
+4. Run migrations (`php artisan migrate)
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
