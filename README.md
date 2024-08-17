@@ -34,10 +34,10 @@ Follow these steps to set up the Kashier application locally:
 
 ## Usage
 To use the system locally, it's actually super easy. just by clicking the shortcut icon in the desktop, it will popup a window with start button to start the server and open the webpage automatically.
-Here is the stating window that will open the app:
+Here is the stating window that will open the app:<br>
 ![START](https://github.com/user-attachments/assets/2a0ea340-ee90-40dd-b02c-18a29560285c)
 
-And Here is how to end the server:
+And Here is how to end the server:<br>
 ![END](https://github.com/user-attachments/assets/4564bdf7-1f0e-4350-8126-3c3baafa86d2)
 
 
