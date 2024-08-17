@@ -3,15 +3,13 @@ Cashier is a comprehensive web-based application designed to manage employee aut
 The core functionality of Cashier revolves around providing a smooth and efficient workflow for employees and financial processes.
 
 ## Features
-<p align="center">
-<span align="center">Employee Authentication</span>
-<span align="center">Customers/Suppliers Management</span>
-<span align="center">Products Management</span>
-<span align="center">Invoice Management</span>
-<span align="center">Settings Update</span>
-<span align="center">Notification System</span>
-<span align="center">Financial Reporting</span>
-</p>
+* Employee Authentication
+* Customers/Suppliers Management
+* Products Management
+* Invoice Management
+* Settings Update
+* Notification System
+* Financial Reporting
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
