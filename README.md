@@ -4,7 +4,7 @@ The core functionality of Cashier revolves around providing a smooth and efficie
 
 ## Features
 <p align="center">
-<span align="center" bg="red">Employee Authentication</span>
+<span align="center" style="background-color:red">Employee Authentication</span>
 </p>
 Employee Authentication: Secure login system specifically for employees using a custom guard.
 Invoice Management: Create, update, and track invoices with detailed financial records.
