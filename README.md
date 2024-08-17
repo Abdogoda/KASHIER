@@ -2,6 +2,14 @@
 Cashier is a comprehensive web-based application designed to manage employee authentication and billing within an organizational environment. 
 The core functionality of Cashier revolves around providing a smooth and efficient workflow for employees and financial processes.
 
+## Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Development](#development)
+- [License](#license)
+- [Contact](#contact)
+
 ## Features
 * Employee Authentication
 * Customers/Suppliers Management
@@ -10,15 +18,17 @@ The core functionality of Cashier revolves around providing a smooth and efficie
 * Settings Update
 * Notification System
 * Financial Reporting
+* User Freindly Interface
+* Daily Database Backup
+* Ability to run locally
+---
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
-## About Laravel
+## Installation
+Follow these steps to set up the Kashier application locally:
+1. Clone the repository
+2. Install dependencies (PHP, Composer, Python, Tkinter)
+3. Set up environment variables
+4. Run migrations (```php artisan migrate)
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
