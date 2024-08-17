@@ -1,4 +1,4 @@
-<p align="center"><h1>KASHIER</h1></p>
+<p align="center"><h1 align="center">KASHIER</h1></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
