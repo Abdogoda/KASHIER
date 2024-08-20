@@ -1,6 +1,8 @@
 # KASHIER <img width="30" height="30" src="https://github.com/user-attachments/assets/13b6ce97-c866-42a2-8bd5-923ac4f4c083" alt="kashier-logo">
-Cashier is a comprehensive web-based application designed to manage employee authentication and billing within an organizational environment. 
+
+<p>Cashier is a comprehensive web-based application designed to manage employee authentication and billing within an organizational environment. 
 The core functionality of Cashier revolves around providing a smooth and efficient workflow for employees and financial processes.
+</p>
 ---
 
 ## Contents
